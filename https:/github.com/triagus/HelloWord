@@ -1,0 +1,10 @@
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>
+   <?php echo '<p>Nama: Tri Agus Santoso</p>
+    <?php echo '<p>NIM: 16.01.53.0141</p>
+ </body>
+</html>
